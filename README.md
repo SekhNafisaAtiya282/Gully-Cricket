@@ -1,2 +1,2 @@
-# Building-Cricket-Game-Updated-
-Internshala Cricket Game Application
+# Gully-Cricket
+Cricket Game Application
